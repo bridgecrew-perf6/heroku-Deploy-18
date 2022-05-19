@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "john",
+        "TeamLead": "RK",
+        "skill": "FrontEnd"
+    },
+    {
+        "Name": "Pavan",
+        "TeamLead": "RK",
+        "skill": "backend"
+    },
+    {
+        "Name": "Vikram",
+        "TeamLead": "RK",
+        "skill": "intigration"
+    },
+    {
+        "Name": "kk",
+        "TeamLead": "RK",
+        "skill": "FrontEnd"
+    }
+]
